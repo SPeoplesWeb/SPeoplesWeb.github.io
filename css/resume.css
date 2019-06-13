@@ -90,6 +90,9 @@ p.lead {
   text-transform: uppercase;
 }
 
+.YelpCamp{
+  color: #AC3B61;
+}
 #sideNav .navbar-toggler:focus {
   outline-color: #d48a6e;
 }
